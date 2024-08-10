@@ -1,3 +1,4 @@
+![logo](https://github.com/AnujPratap-96/AnujPratap-96/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Anuj Pratap Singh</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
