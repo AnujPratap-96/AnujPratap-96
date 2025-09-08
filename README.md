@@ -1,4 +1,4 @@
-![logo](https://github.com/AnujPratap-96/AnujPratap-96/blob/main/Banner.jpeg)
+![logo](https://github.com/AnujPratap-96/AnujPratap-96/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Anuj Pratap Singh</h1>
 <h3 align="center">A passionate Full Stack Developer [MERN STACK] from India.</h3>
 
