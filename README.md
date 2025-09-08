@@ -1,18 +1,18 @@
 ![logo](https://github.com/AnujPratap-96/AnujPratap-96/blob/main/Banner.jpeg)
 <h1 align="center">Hi 👋, I'm Anuj Pratap Singh</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+<h3 align="center">A passionate Full Stack Developer [MERN STACK] from India.</h3>
 
 <img align = "right" alt="gif" width ="400px" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"/>
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Next JS**
 
 - 📫 How to reach me **officialthakur94@gmail.com**
 
-- ⚡ Fun fact **I am Meme Lover 🫠**
+- ⚡ Fun fact **I am Vibe Coder and Meme Lover 🫠**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/anuj pratap singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj pratap singh" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/anujpratap--singh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anuj pratap singh" height="30" width="40" /></a>
 <a href="https://instagram.com/_anuj_pratap_23_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_anuj_pratap_23_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@offcialthakur94" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@offcialthakur94" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/anujpratap99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="anujpratap99" height="30" width="40" /></a>
