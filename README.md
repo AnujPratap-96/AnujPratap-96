@@ -139,7 +139,10 @@ A scalable e-commerce platform inspired by Blinkit with robust state management.
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=anujpratap-96&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats" />
+  <img 
+    src="https://streak-stats.demolab.com/?user=anujpratap-96&theme=tokyonight&hide_border=true&background=0D1117"
+    alt="GitHub Streak Stats"
+  />
 </div>
 
 
