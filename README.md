@@ -1,8 +1,5 @@
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:0d1117,100:58a6ff&height=220&section=header&text=Anuj%20Pratap%20Singh&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=32">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,50:ffffff,100:58a6ff&height=220&section=header&text=Anuj%20Pratap%20Singh&fontSize=50&fontColor=58a6ff&animation=fadeIn&fontAlignY=32" width="100%" />
-  </picture>
+  <img src="https://github.com/AnujPratap-96/AnujPratap-96/raw/main/Banner.png" width="100%" alt="Anuj Pratap Singh Banner" />
 </div>
 
 <div align="center">
