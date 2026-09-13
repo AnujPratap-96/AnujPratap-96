@@ -9,16 +9,15 @@
 </div>
 
 <div align="center">
-  <em>Building scalable web applications with modern technologies —<br/>
+  <em>Building scalable web applications with modern technologies -<br/>
   continuously exploring <b>AI, distributed systems, and software architecture</b>.</em>
 </div>
 
 <div align="center">
   <a href="https://linkedin.com/in/anujpratap--singh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://anuj-pratapsingh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=react&logoColor=white" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/AnujPratap-96"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/anujpratap99/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/AnujPratapSingh-96/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" /></a>
 </div>
 
 ---
@@ -41,7 +40,7 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center"><img src="https://img.shields.io/badge/-CommerceOS-0D1117?style=for-the-badge&logo=shopify&logoColor=58A6FF" /></td>
+      <td align="center"><img src="https://img.shields.io/badge/-Multi--Tenant%20SaaS-0D1117?style=for-the-badge&logo=vercel&logoColor=58A6FF" /></td>
       <td align="center"><img src="https://img.shields.io/badge/-AI%20Applications-0D1117?style=for-the-badge&logo=openai&logoColor=58A6FF" /></td>
       <td align="center"><img src="https://img.shields.io/badge/-Distributed%20Systems-0D1117?style=for-the-badge&logo=apachekafka&logoColor=58A6FF" /></td>
     </tr>
@@ -96,23 +95,60 @@
         </p>
         <p align="center">
           <a href="https://github.com/AnujPratap-96/devTinder-Frontend"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://devs-tinder.site"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+          <a href="https://dev-tinder-frontend-six-virid.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
         </p>
       </td>
       <td width="50%">
-        <h3 align="center">Blinkit Clone</h3>
+        <h3 align="center">College Market Place</h3>
         <p align="center">
-          <em>Scalable e-commerce platform with role-based access and payment integration</em>
+          <em>Full-stack marketplace platform connecting college communities with real-time and payment workflows</em>
         </p>
         <p align="center">
+          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-          <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" />
+          <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+          <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socketdotio&logoColor=white" />
+          <img src="https://img.shields.io/badge/Razorpay-0C2451?style=flat-square&logo=razorpay&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://github.com/AnujPratap-96/Blinkit---FullStack-Ecommerce-Website"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://blinkit-full-stack-ecommerce-websit.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+          <a href="https://github.com/AnujPratap-96/College-Market-Place-Frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://github.com/AnujPratap-96/College-Market-Place-Backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://college-market-place-frontend.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+        </p>
+      </td>
+    </tr>
+    <tr>
+    <td width="50%">
+        <h3 align="center">Resume Parser</h3>
+        <p align="center">
+          <em>Resume parsing application for extracting candidate details and structured resume insights</em>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+          <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+          <img src="https://img.shields.io/badge/NLP-0D1117?style=flat-square&logo=openai&logoColor=white" />
+          <img src="https://img.shields.io/badge/PDF%20Parsing-FF5722?style=flat-square&logo=adobeacrobatreader&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://github.com/AnujPratap-96/Resume-Parser"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://resume-parser-czvu.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3 align="center">Multi-Tenant SaaS</h3>
+        <p align="center">
+          <em>Multi-tenant SaaS application with tenant-aware architecture and scalable workflows</em>
+        </p>
+        <p align="center">
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+          <img src="https://img.shields.io/badge/Multi--Tenant-0D1117?style=flat-square&logo=vercel&logoColor=white" />
+        </p>
+        <p align="center">
+          <a href="https://github.com/AnujPratap-96/Multi-Tenant-Saas-Application"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
         </p>
       </td>
     </tr>
@@ -129,57 +165,24 @@
           <img src="https://img.shields.io/badge/RapidAPI-0055FF?style=flat-square&logo=rapidapi&logoColor=white" />
         </p>
         <p align="center">
-          <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+          <a href="https://github.com/AnujPratap-96/Sumz-AI"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://sumz-by-aps.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
         </p>
       </td>
-      <td width="50%">
-        <h3 align="center">CommerceOS</h3>
+       <td width="50%">
+        <h3 align="center">Blinkit Clone</h3>
         <p align="center">
-          <em>Modular commerce operating system for scalable online marketplaces</em>
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
-        </p>
-        <p align="center">
-          <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="#"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Portfolio</h3>
-        <p align="center">
-          <em>Personal developer portfolio showcasing projects, skills, and experience</em>
+          <em>Scalable e-commerce platform with role-based access and payment integration</em>
         </p>
         <p align="center">
           <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-          <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" />
-        </p>
-        <p align="center">
-          <a href="https://github.com/AnujPratap-96"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://anuj-pratapsingh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">College Market Place</h3>
-        <p align="center">
-          <em>Full-stack marketplace platform connecting college communities</em>
-        </p>
-        <p align="center">
-          <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-          <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+          <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
           <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+          <img src="https://img.shields.io/badge/Stripe-008CDD?style=flat-square&logo=stripe&logoColor=white" />
         </p>
         <p align="center">
-          <a href="https://github.com/AnujPratap-96/College-Market-Place-Frontend"><img src="https://img.shields.io/badge/Frontend-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-          <a href="https://github.com/AnujPratap-96/College-Market-Place-Backend"><img src="https://img.shields.io/badge/Backend-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://github.com/AnujPratap-96/Blinkit---FullStack-Ecommerce-Website"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+          <a href="https://blinkit-full-stack-ecommerce-websit.vercel.app"><img src="https://img.shields.io/badge/Live_Demo-FF5722?style=for-the-badge&logo=firefox&logoColor=white" /></a>
         </p>
       </td>
     </tr>
@@ -205,7 +208,7 @@
 ## Coding Activity
 
 <div align="center">
-  <sub><em>⚡ <a href="https://wakatime.com">WakaTime</a> coding stats will appear here once connected</em></sub>
+  <sub><em>WakaTime coding stats will appear here once connected</em></sub>
 </div>
 
 ## Achievements
@@ -217,14 +220,14 @@
 <div align="center">
   <table>
     <tr>
-      <td align="center">⭐ Building Full Stack Applications</td>
-      <td align="center">🤖 Exploring AI</td>
-      <td align="center">🏗️ Learning System Design</td>
+      <td align="center">Building Full Stack Applications</td>
+      <td align="center">Exploring AI</td>
+      <td align="center">Learning System Design</td>
     </tr>
     <tr>
-      <td align="center">🌍 Open Source Contributor</td>
-      <td align="center">📚 Continuous Learner</td>
-      <td align="center">⚙️ Backend Architecture</td>
+      <td align="center">Open Source Contributor</td>
+      <td align="center">Continuous Learner</td>
+      <td align="center">Backend Architecture</td>
     </tr>
   </table>
 </div>
@@ -243,9 +246,8 @@
 
 <div align="center">
   <a href="https://linkedin.com/in/anujpratap--singh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://anuj-pratapsingh-portfolio.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=react&logoColor=white" /></a>
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/anujpratap99/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://leetcode.com/u/AnujPratapSingh-96/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
   <a href="https://github.com/AnujPratap-96"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
@@ -262,7 +264,7 @@
     <img src="https://raw.githubusercontent.com/AnujPratap-96/AnujPratap-96/output/github-contribution-grid-snake.svg" width="80%" />
   </picture>
   <br/>
-  <sub><em>⚡ Requires a <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to generate the snake animation</em></sub>
+  <sub><em>Requires a <a href="https://github.com/Platane/snk">Platane/snk</a> GitHub Action to generate the snake animation</em></sub>
 </div>
 
 <br/>
